@@ -1,6 +1,8 @@
 # Blinding
 
-Blinding is an executable used to randomize file names and create a CSV to match the original file with the new name
+Blinding is an executable used to randomize file names and create a CSV to match the original file with the new name.
+
+Now with support for nested input directories. Each input directory will create an output directory and they will each have an output CSV.
 
 ## Setup - Windows
 
